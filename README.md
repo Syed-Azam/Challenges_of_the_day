@@ -11,6 +11,8 @@
 | 1 | Phone Number Format |
 | 2 | Sum of Parts of a List (See Description) |
 | 3 | Range Extraction |
+| 4 | Guess the Number Game (A Self-Made Challenge) |
+
 
 ## Code style
 **PYTHON 3.7.3**
