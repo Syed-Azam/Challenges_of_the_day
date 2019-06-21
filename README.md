@@ -7,10 +7,10 @@
 ### Project Files
 
 | S.No. | Description |
-| ----------- |
-| 1 | Remove Duplicate Values from a List using Loop |
-| 2 | Prime Number Generator from 1 to 100 |
-| 3 | Input a Number and Print Table of it |
+| ----- | ----------- |
+| 1 | Phone Number Format |
+| 2 | Sum of Parts of a List (See Description) |
+| 3 | Range Extraction |
 
 ## Code style
 **PYTHON 3.7.3**
