@@ -12,8 +12,7 @@
 | 2 | Sum of Parts of a List (See Description) |
 | 3 | Range Extraction |
 | 4 | Guess the Number Game (A Self-Made Challenge) |
-| 5 | TicTocToe Game Concept & Design by https://github.com/phaizi |
-| 6 | {1 = 'A', 2 = 'B'.................26 = 'Z'} |
+| 5 | {1 = 'A', 2 = 'B'.................26 = 'Z'} |
 
 
 ## Code style
